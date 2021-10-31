@@ -4,3 +4,6 @@ The code is developed as a Mobile Android App, which is convertible to an Androi
 Initially, the app was based on Android TV Leanback library, which provides UI templates. We tried to build a core structure of a Smart TV app but 
 in the process we realized that a Mobile App suitable for Android TV is more manageable for a short-time Project. However as a future goal, we would
 like to implement the Leanback library to provide more look-and-feel.
+
+
+[![DEMO]](VilmaDemo.mp4) <br/>
